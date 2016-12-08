@@ -18,6 +18,9 @@
     "devDepdenencies": {
         "mocha": "3.2.0"
     },
+    "bin": {
+        "sort-pmd-rules": "./index.js"
+    },
     "scripts": {
         "test": "mocha --reporter spec"
     }
