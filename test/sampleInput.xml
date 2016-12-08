@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<grandparent>
+    <parent sortOrder="c">
+        <child />
+    </parent>
+    <parent sortOrder="a">
+        <child />
+    </parent>
+    <parent sortOrder="b">
+        <child />
+    </parent>
+</grandparent>
